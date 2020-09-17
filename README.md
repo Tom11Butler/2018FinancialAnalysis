@@ -12,9 +12,7 @@ Includes the Jupyter notebook of the code and analysis carried out for a Medium 
 6. Licenses
 
 ## Project Motivations
-In this project I wanted to explore the a dataset from Kaggle: https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018/kernels
-
-The purpose is for my own personal upskill in exploratory data analysis, data science and communicating about the two. I picked three questions to use the dataset to answer, the results of which are summarised below and explained more in the Medium post.
+In this project I wanted to explore a [Kaggle dataset](https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018/kernels) relating to the stock market. The purpose is for my own personal upskill in exploratory data analysis, data science and communicating about the two. I picked three questions to use the dataset to answer, the results of which are summarised below and explained more in the Medium post.
 
 ## Medium post
 
